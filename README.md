@@ -98,13 +98,18 @@ node scripts/gen-frame-image.mjs
 | Preview image | https://basestriker.xyz/frame-image.png |
 | App entry | https://app.basestriker.xyz/ |
 | Main repo | https://github.com/malashd1/Basestriker |
+| Studio    | https://chisoft.co/ |
 
 ## Validate
 
 Paste `https://basestriker.xyz` into the [Warpcast Frame Validator](https://warpcast.com/~/developers/frames) — should render the preview + Play button + splash.
 
+## Studio
+
+BaseStriker Frame is a [Chisoft](https://chisoft.co/) project — an independent
+game studio based in Prague, Czech Republic. Bug reports and contributions go
+through GitHub issues on this repo.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
-
-Contact: dima@chisoft.co
